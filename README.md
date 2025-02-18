@@ -49,7 +49,3 @@ backend_trip/
 ├── package.json
 └── package-lock.json
 ```
-
----
-
-### 📝 **Feel free to add any additional setup instructions or project details here!**
